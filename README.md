@@ -13,3 +13,8 @@ Ao executar o pokedolar.py, uma consulta será feita na API https://economia.awe
   pip install -r requirements.txt
   python pokedolar.py
 ```
+<br>
+
+![Logo](pokeapi.png) <br>
+![Logo](rocketry.webp)
+
